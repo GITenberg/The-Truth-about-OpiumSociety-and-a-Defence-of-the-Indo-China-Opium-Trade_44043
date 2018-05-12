@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42538'
     url: http://www.gutenberg.org/2009/agents/42538
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44043#The-Truth-about-OpiumSociety-and-a-Defence-of-the-Indo-China-Opium-Trade
 gutenberg_issued: '2013-10-26'
 gutenberg_type: Text
 identifiers:
