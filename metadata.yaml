@@ -1,0 +1,33 @@
+_repo: The-Truth-about-OpiumSociety-and-a-Defence-of-the-Indo-China-Opium-Trade_44043
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44043-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brereton, William H.
+    gutenberg_agent_id: '42538'
+    url: http://www.gutenberg.org/2009/agents/42538
+description: ''
+gutenberg_issued: '2013-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44043'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Commerce -- India -- History -- 19th century'
+- !lcsh 'Opium abuse'
+- !lcsh 'China -- Commerce -- Great Britain -- History -- 19th century'
+- !lcsh 'Great Britain -- Commerce -- China -- History -- 19th century'
+- !lcsh 'India -- Commerce -- China -- History -- 19th century'
+- !lcsh 'Opium trade -- Great Britain -- History -- 19th century'
+- !lcsh 'Opium trade -- India -- History -- 19th century'
+- !lcc 'RC'
+- !lcsh 'Opium trade -- China -- History -- 19th century'
+- !lcc 'HV'
+title: "The Truth about Opium\r\nBeing a Refutation of the Fallacies of the Anti-Opium\
+  \ Society and a Defence of the Indo-China Opium Trade"
+url: http://www.gutenberg.org/ebooks/44043
